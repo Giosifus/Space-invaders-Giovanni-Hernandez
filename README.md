@@ -1,7 +1,7 @@
 # Space-invaders-Giovanni-Hernandez
 Un bonito remake de space invaders, hecho en 3 dias en directo en el canal de twitch Giosifus.
 
-Hecho con el fin de aplicar a una solicitud de empleo, sientete libre de modificar el juego o usarlo como plantilla. 
+Sientete libre de modificar el juego o usarlo como plantilla. 
 
 
 
