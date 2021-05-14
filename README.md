@@ -14,6 +14,7 @@ Creditos:
 Musica y SFX de: https://freesound.org
 
 Algunos sprites: https://www.shutterstock.com
+
 Otros sprites: Edsón Flores (diseñador de Giosifus Games)
 
 Desarrollado por: Giosifus Games
